@@ -1,4 +1,4 @@
-# 3DMovingTask
+# 3DMovingElements
  WPF Adpplication with HelixToolKit
 WPF application for displaying 3D models, organized in the form of several tasks.
 - The first task displays only a 3D model.
